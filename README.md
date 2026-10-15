@@ -29,13 +29,13 @@ I designed and programmed this application in 2020–2021. It is published here 
 
 ## Technology
 
-Microsoft Access 2010+ format (.accdb), VBA.
+db, 2010+ format (.accdb), VBA.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/` | Plain-text export (UTF-8) of forms, reports, macros, VBA modules (`SaveAsText`) and of the SQL of every query. |
 | `docs/schema.md` | Tables and fields. |
 
@@ -45,8 +45,8 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## Related repositories
 
-- [reception-community-minors-access](https://github.com/massimosbarbaro/reception-community-minors-access)
-- [minors-reception-register-access](https://github.com/massimosbarbaro/minors-reception-register-access)
+- [reception-community-minors-db](https://github.com/massimosbarbaro/reception-community-minors-db)
+- [minors-reception-register-db](https://github.com/massimosbarbaro/minors-reception-register-db)
 
 ## How to cite
 
